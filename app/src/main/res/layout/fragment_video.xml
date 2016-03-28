@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/color_blue_light"
+       >
+
+        <TextView
+            style="@style/tb_titles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   视         听   " />
+    </RelativeLayout>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_video_refresh">
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_video_rv"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <!--<VideoView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/vvvvvvv"/>-->
+</LinearLayout>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/item_discuss_layout"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal">
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/discuss_image_face"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                fresco:placeholderImage="@mipmap/ic_launcher"
+                android:layout_margin="7dp"
+                android:layout_marginStart="10dp"
+                fresco:roundBottomLeft="true"
+                fresco:roundBottomRight="true"
+                fresco:roundWithOverlayColor="@android:color/transparent"
+                fresco:roundedCornerRadius="25dp"
+                />
+
+            <TextView
+                android:id="@+id/discuss_item_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical"
+                style="@style/titles"/>
+            <View
+                android:layout_width="2dp"
+                android:layout_height="match_parent"
+                android:background="#d2d2d2"
+                android:layout_margin="15dp"
+                android:layout_marginBottom="50dp"/>
+            <TextView
+                android:id="@+id/discuss_item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                style="@style/author"/>
+        </LinearLayout>
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/discuss_image"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            fresco:placeholderImage="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/discuss_item_content_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           style="@style/content"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/discuss_item_type_tv"
+                style="@style/describe"/>
+            <View
+                android:layout_width="2dp"
+                android:layout_height="match_parent"
+                android:background="#d2d2d2"
+                android:layout_margin="15dp"
+                android:layout_marginBottom="50dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/discuss_item_follow_tv"
+                style="@style/describe"/>
+            <View
+                android:layout_width="2dp"
+                android:layout_height="match_parent"
+                android:background="#d2d2d2"
+                android:layout_margin="15dp"
+                android:layout_marginBottom="50dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/discuss_item_question_tv"
+                style="@style/describe"/>
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="25dp"
+                android:id="@+id/item_disscuss_attention"
+                android:text="+关注"
+                android:textColor="@color/white"
+                android:layout_marginLeft="80dp"
+                android:background="@drawable/attention_shape"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

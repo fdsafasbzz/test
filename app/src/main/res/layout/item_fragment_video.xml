@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_video_fragment_title"
+        style="@style/titles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/item_video_fragment_describe"
+        style="@style/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <FrameLayout
+        android:id="@+id/item_video_fragment_framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <VideoView
+            android:id="@+id/item_video_fragment_vv"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_gravity="center" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_video_fragment_draweeview"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            fresco:placeholderImage="@mipmap/ic_launcher" />
+
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/item_video_fragment_time"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/describe"/>
+
+        <TextView
+            android:id="@+id/item_video_fragment_count"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/describe"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="titles">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="tb_titles">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/color_blue_light</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:background">@drawable/title_shape</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="describe">
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:layout_margin">7dp</item>
+    </style>
+    <style name="content">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:layout_margin">9dp</item>
+    </style>
+    <style name="smallContent">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_margin">9dp</item>
+    </style>
+    <style name="author">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:layout_margin">9dp</item>
+    </style>
+    <style name="newsTypeImg">
+        <item name="android:height">100dp</item>
+        <item name="android:width">100dp</item>
+    </style>
+    <style name="push_style">
+        <item name="android:hint">@string/style_hint</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="push_alias">
+        <item name="android:hint">@string/alias_hint</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="push_tag">
+        <item name="android:hint">@string/tag_hint</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

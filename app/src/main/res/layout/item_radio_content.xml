@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="horizontal"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:id="@+id/item_radio_left_layout"
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_radio_left_img"
+            fresco:placeholderImage="@mipmap/ic_launcher"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/item_radio_middle_layout"
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_radio_middle_img"
+            fresco:placeholderImage="@mipmap/ic_launcher"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/item_radio_right_layout"
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_radio_right_img"
+            fresco:placeholderImage="@mipmap/ic_launcher"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp" />
+    </LinearLayout>
+</LinearLayout>

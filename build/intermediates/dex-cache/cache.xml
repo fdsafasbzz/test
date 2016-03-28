@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-05e5d9efd114096477f4a9c8925b6be784377e0a.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.1.0/9414c1d4578673dac83a23119009624fd695726d/greendao-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/greendao-2.1.0-bdbb5f6a8a4b4c2745ef1bb893cf719589edba93.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-fdac77ed668912282c1bb01896a9d3335d404c1a.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-315e35bdec3cdb7fe27d2f6451bb97ddda3e94e0.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/ShareSDK-SinaWeibo-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13ba1716e77463e49438b20880ec361fb55b321f">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.7.0-727442b08e20a8dd671db4514a702abfdf516400.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/ShareSDK-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="89e252feaeae2a7baa6b5e1ac4e3fc1d4c4e70d1">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.7.0-84582363570d8665ecf26c740ad3d6707c780574.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-3c375879ea754fee1adb9fb57cba90bbfe60f5e5.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/Android-SDK-mac/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-4bde107cc59f30f4c324ce1a914d1aa05c805caa.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/MobCommons-2016.0301.1053.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ac79e45bfe01ce2bac0a1d1ead2aba2524f4c8b">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/MobCommons-2016.0301.1053-17077ad01f8acebb242a3a03fa8678a86bee37ce.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/ShareSDK-Wechat-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="925c0b32df7cfb1256002f7b0f861ff7c02617b7">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.7.0-c5c9e25c780ef59d430c19cf8b5c0dd4471ed534.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/eu.the4thfloor.volley/com.android.volley/2015.05.28/b0b08cc0ac897e596abe6b263a9507cba875b705/com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/com.android.volley-2015.05.28-4e77161c1a9fadcc7f763d5581c103bb66afac85.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-468fe4f7cc2af9c862b1b21780499bb327c7e5bd.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/imageloder.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be25c01cb731a5bb546331eee0fca6b85f3814f5">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/imageloder-1b9b80b367b7bcc80b47ae10ad2df1bdea3ddd4e.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/library-2.4.0-a7ed7f9b1fc99a7fd30cbc830ecdd0d80bed9f60.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/ShareSDK-QQ-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08e3ecb5b9a36d03bdc9cd54078e221fd2ef401d">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.7.0-1bfa6bc80b858ca24c619fcf361e35ffcecefafe.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.jorge.circleview/circlelibrary/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="854482bd4f6bc51785fc6d7feced5a42f11f6120">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-c660ffd0d0803f82f4cd8c8f7d5f2282b5f4815f.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/MobTools-2016.0301.1053.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe9bb68bf9983f6fd4882e89ea11bf6f2bbb1ded">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/MobTools-2016.0301.1053-bf9b707c95a2190b8b498b627f2b8d0da7d9bef0.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-641c1914918bb16731cb3329d8b8feab30c5878c.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-416ecd432dd1bb77fcb3347e78aca556b490a2bc.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-93bacf8160397120da182083103fb647c2340436.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/gson-2.2.4-ae9e5bb36ec2420e0df81c4f43f59c12c82bd0db.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/jpush-android-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="46ba8dda9da3802d03bd5d73e258c72cb5605416">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/jpush-android-2.1.0-526f4fdfb83318c60215e0574db0f245a9e90f00.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-61811ba8954ccae0102ce5a501e6b0093d6cd7cf.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-a76a99b5b7289d70ff0119ab4e87589582d29399.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/libs/ShareSDK-Wechat-Moments-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0dfe0a575c3b6c39e2e4b3a74f1bac84b618cca0">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.7.0-0e84f0458d67332157fcca2180a0c5efb2aedc89.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-a9c47b54888f771aaa244cb395bd80e8082b939a.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-492ddcf7e455132d1989c05549ef21efbeb700a1.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-27a6ba8076f48419145edb67ef432d720726dd95.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/Users/dllo/Desktop/cnews/ANews/app/build/intermediates/pre-dexed/debug/classes-9a6bb7a47e6ce4d028f68fd89cc313110a16654b.jar" />
+    </item>
+
+</items>

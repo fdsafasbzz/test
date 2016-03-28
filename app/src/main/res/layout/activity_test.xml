@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/test_lll">
+<com.sixgod.dllo.anews.View.RefreshView
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:id="@+id/test_refresh"/>
+</LinearLayout>

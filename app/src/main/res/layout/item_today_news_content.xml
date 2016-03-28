@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="@+id/item_today_news_content_layout"
+    android:layout_margin="15dp"
+    android:background="@color/color_blue_light">
+<com.facebook.drawee.view.SimpleDraweeView
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    fresco:placeholderImage="@mipmap/ic_launcher"
+    android:id="@+id/item_today_news_content_left_img1"/>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/titles"
+            android:id="@+id/item_today_news_content_title"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_today_news_content_describe"
+            style="@style/describe"
+            android:layout_alignParentBottom="true"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/item_today_news_content_right_img"/>
+    </RelativeLayout>
+</LinearLayout>

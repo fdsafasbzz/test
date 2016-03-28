@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_tab_pressed">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_choose_news_btn"
+        android:background="@color/color_blue_light"/>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/like_news_type_rv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:layout_margin="20dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/all_news_type_rv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:layout_margin="20dp"/>
+
+
+
+</LinearLayout>

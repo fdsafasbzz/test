@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_read_three_pic_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/item_read_three_pic_content_tv"
+        style="@style/titles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:orientation="horizontal">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_read_three_pic_left_img"
+            android:layout_width="210dp"
+            android:layout_height="210dp" />
+
+
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_read_three_pic_right_top_img"
+            android:layout_width="102dp"
+            android:layout_height="102dp"
+            android:layout_alignParentRight="true"/>
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_read_three_pic_right_bottom_img"
+            android:layout_width="102dp"
+            android:layout_height="102dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            />
+
+    </RelativeLayout>
+</LinearLayout>
